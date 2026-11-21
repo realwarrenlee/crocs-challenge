@@ -1,54 +1,61 @@
-# Remotion video
+# Stride — One for you, one for me
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
+Entry for **The Next Expression 2027 Competition**. Stride proposes turning Crocs personalization into a gifting experience: choose two meaningful Jibbitz, write a personal note, and give one to a friend.
 
-Welcome to your Remotion project!
+## The pitch
 
-## Commands
+![Two noodle-bowl charms with a note thanking a friend for supper after finals](./video-source/public/images/01_Supper_After_Finals.png)
 
-**Install Dependencies**
+Imagine receiving this as a graduation gift. The note turns a pair of tiny charms into a reminder of a moment you shared with a friend.
 
-```console
-npm i --loglevel=error
-```
+![Stride: One for you, one for me](./video-source/public/images/02_One_For_You_One_For_Me.png)
 
-**Start Preview**
+Two noodle bowls mean something because you know exactly which supper your friend remembers. Stride makes that shared memory the reason to choose a charm: one to give, one to keep.
 
-```console
-npm run dev
-```
+![Choose meaningful charms, write a personal note, and give to a friend](./video-source/public/images/03_Choose_Write_Give.png)
 
-**Render video**
+At a Crocs store, shoppers pick two Jibbitz that remind them of a friend and write a personal note. Gifting gives even someone who has never owned Crocs a reason to buy.
 
-```console
-npx remotion render
-```
+![S$5,000 Singapore graduation pilot: four pilot stores, four comparison stores, ten weeks](./video-source/public/images/04_Singapore_Pilot.png)
 
-**Upgrade Remotion**
+We propose testing graduation gifting in Singapore before expanding. Comparing pilot stores with similar stores will help assess whether the experience generates additional charm sales.
 
-```console
-npx remotion upgrade
-```
+![Next test: birthday gifting in South Korea](./video-source/public/images/05_South_Korea_Birthdays.png)
 
-## Docs
+If the Singapore pilot works, the next test would adapt the experience for birthdays in South Korea. This would test whether the idea can extend to another occasion and market.
 
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
+![Year-three forecast: S$477k in additional sales across sixty stores](./video-source/public/images/06_Year_Three_Forecast.png)
 
-## Help
+The year-three forecast is nearly half a million Singapore dollars in additional sales. This depends on the assumptions in the [financial model](./Financial_Model.xlsx) and validation through the pilot.
 
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
+## Project files
 
-## Issues
+| File | Purpose |
+| --- | --- |
+| [Video_Pitch.mp4](./Video_Pitch.mp4) | Video pitch |
+| [Pitch_Deck.pdf](./Pitch_Deck.pdf) | PDF deck for viewing |
+| [Financial_Model.xlsx](./Financial_Model.xlsx) | Financial model and assumptions |
+| [Research_and_Sources.md](./Research_and_Sources.md) | Supporting research and sources |
+| [Video_Script.md](./Video_Script.md) | Voiceover script |
+| [video-source](./video-source/) | Editable Remotion project, images, and approved audio |
 
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
+## Competition challenge
 
-## License
+Imagine you are the General Manager of Personalization in Asia Pacific for Crocs. Reimagine and grow the business over the next three years to engage the next generation of consumers and drive revenue growth.
 
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+- **Define:** What should personalization mean for the next generation of consumers?
+- **Design:** What business model and consumer experience should Crocs build?
+- **Deliver:** How will the proposal drive engagement and revenue while remaining practical to execute?
+
+The approach may draw on consumer, brand, retail, digital, product, operations, or other relevant levers.
+
+## About the competition
+
+The Next Expression is a Crocs university business case competition for students in **China, Japan, and Singapore**, focused on personalization in Asia Pacific.
+
+
+## Required submission
+
+- **Video:** an English pitch of no more than **one minute**.
+- **Deck:** a PowerPoint presentation of no more than **10 slides**.
+- Cover an executive summary; business and consumer insights; recommended strategy; estimated financial impact, resources and key assumptions; implementation roadmap and KPIs; and supporting research with appropriately cited sources.

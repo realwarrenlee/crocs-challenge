@@ -1,0 +1,12 @@
+{
+  "voiceId": "7jynqzOvnVP89nA7TB0m",
+  "voiceName": "Nick - Relatable & Engaging Friend",
+  "text": "“Thanks for staying for supper after finals.” Imagine reading that on your graduation gift.\n\nPinned to the note are two tiny noodle bowls. You know exactly which supper your friend means. We’re Stride. Our idea is One for you, one for me.\n\nAt a Crocs store, you pick two Jibbitz that remind you of a friend and write them a note. Even if you’ve never owned Crocs, you have a reason to buy.\n\nWe’re asking for five thousand Singapore dollars to test graduation gifting in four stores. We’ll compare them with four similar stores to see whether gifting brings in extra charm sales.\n\nIf it works, we’ll test birthdays in South Korea.\n\nAcross sixty stores, our year-three forecast is nearly half a million Singapore dollars in additional sales.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.2,
+    "speed": 1.1
+  }
+}
